@@ -1,7 +1,6 @@
 # Laravel 10 & OpenAI generate avatar
 
-## Demo
-[Demo AI generate avatar](https://laravel-ai-generate-avatar.bbmcode.com/profile)
+
 <p align="center">
 <img src="temp/screenshot.png" width="200" alt="Laravel Logo">
 </p>
